@@ -77,6 +77,3 @@ This application uses:
   - DistilBART for summarization
   - FLAN-T5 for quiz generation
 
-## License
-
-This software is provided for educational purposes only. See the LICENSE file for details. 
