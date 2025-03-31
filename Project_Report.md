@@ -1,6 +1,6 @@
 PDF Learning Assistant: Project Report
 
-Date: June 2023
+Date: March 20 2025
 Prepared By: GenAI Development Team
 
 1. Project Overview
@@ -19,11 +19,11 @@ Goals & Objectives:
 - Build a cross-platform solution with focus on Windows compatibility
 
 Timeline:
-- Phase 1: Research & Architecture (2 weeks)
-- Phase 2: Core PDF Processing & AI Model Integration (4 weeks)
-- Phase 3: UI Development & User Experience Design (3 weeks)
-- Phase 4: Testing & Optimization (2 weeks)
-- Phase 5: Documentation & Deployment Preparation (1 week)
+- Phase 1: Research & Architecture (2 days)
+- Phase 2: Core PDF Processing & AI Model Integration (4 days)
+- Phase 3: UI Development & User Experience Design (3 days)
+- Phase 4: Testing & Optimization (2 days)
+- Phase 5: Documentation & Deployment Preparation (1day)
 
 Resources Allocated:
 - Budget: Development costs primarily consisted of developer time and cloud computing resources for model fine-tuning
@@ -50,7 +50,7 @@ Responsibilities:
 - Documentation: Creation of setup guides and user documentation
 
 Tools & Methods:
-- Developed using an Agile approach with 2-week sprints
+- Developed using an Agile approach with 2-days sprints
 - Utilized FastAPI for backend server functionalities
 - Implemented Hugging Face Transformers for NLP capabilities
 - Used PyMuPDF for robust PDF text extraction
